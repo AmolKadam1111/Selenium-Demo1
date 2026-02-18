@@ -1,4 +1,4 @@
-# Selenium-Demo1
+cd# Selenium-Demo1
 For practise of Git & Git repository
 <br>
-Author - Amol Kadam
+Author - Amol Kadam (Synechron)
