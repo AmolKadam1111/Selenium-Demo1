@@ -1,2 +1,3 @@
 # Selenium-Demo1
-For practise
+For practise of Git & Git repository
+Author - Amol Kadam
